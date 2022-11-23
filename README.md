@@ -20,4 +20,4 @@ Here are some ideas to get you started:
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uzhjd)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzhjd)](https://github.com/uzhjd/github-readme-stats)
-<img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
