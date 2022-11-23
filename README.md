@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20193166)](https://solved.ac/20193166)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzhjd)](https://github.com/uzhjd/github-readme-stats)
