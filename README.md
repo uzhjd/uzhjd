@@ -1,4 +1,4 @@
-### Hi there 👋
+###🌼 YuJeong 🌼
 
 <!--
 **uzhjd/uzhjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20193166)](https://solved.ac/20193166) &nbsp&nbsp&nbsp
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uzhjd)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20193166)](https://solved.ac/20193166)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzhjd)](https://github.com/uzhjd/github-readme-stats)
