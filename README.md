@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
