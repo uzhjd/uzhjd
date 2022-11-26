@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center>
+
  ### 🌼 YuJeong 🌼
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uzhjd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,3 +31,5 @@ Here are some ideas to get you started:
 <br><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>          <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
 <br><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>          <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>          <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <br><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+
+</div>
