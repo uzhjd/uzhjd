@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <div align="center">
 
  ### 🌼 YuJeong 🌼
- --- [![Solved.ac
+ --- 
+ [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20193166)](https://solved.ac/20193166)          [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uzhjd&card_width=370&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
@@ -29,5 +30,4 @@ Here are some ideas to get you started:
 <br><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>          <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>          <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <br><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></div>
  
-
 </div>        
