@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzhjd&layout=compact)](https://github.com/uzhjd/github-readme-stats)
 <div><b>Languages
  <br>
+ <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>          <img src="https://img.shields.io/badge/Java-FF160B?style=flat-square&logo=Java&logoColor=white"/>          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
  C, C++, JAVA, Javascript
 <br>
 <b>Frameworks & Libraries
