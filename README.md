@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
  ### 🌼 YuJeong 🌼
  ---
- <h6>I'm ...</h6>
+ <h5>I'm ...</h5>
  ---
+ 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uzhjd&card_width=370&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)           [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=20193166)](https://solved.ac/20193166)  
 
