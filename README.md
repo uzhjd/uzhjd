@@ -27,7 +27,7 @@
 <br>
  <img src="https://img.shields.io/badge/MariaDB-white?style=flat-square&logo=MariaDB&logoColor=003545"/>          <img src="https://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL&logoColor=4479A1"/>          <img src="https://img.shields.io/badge/Oracle-white?style=flat-square&logo=Oracle&logoColor=F80000"/>
 <br> <br>
-✏️ Tools
+  ✏️ Tools
 
  <img src="https://img.shields.io/badge/Git-white?style=flat-square&logo=Git&logoColor=F05032"/>          <img src="https://img.shields.io/badge/GitHub-4A154B?style=flat-square&logo=GitHub&logoColor=white"/>
 <br>
@@ -40,7 +40,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzhjd&layout=compact)](https://github.com/uzhjd/github-readme-stats)
 
 ---
-<b>🌱Stats🌱</b>
+<b>🌱Status🌱</b>
 <br>
 <br>
 
