@@ -40,7 +40,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzhjd&layout=compact)](https://github.com/uzhjd/github-readme-stats)
 
 ---
-<b>🌱Status🌱</b>
+<b>🌱Stats🌱</b>
 <br>
 <br>
 
